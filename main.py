@@ -24,7 +24,7 @@ def index():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TA RULEX BOII AMIL</title>
+    <title>THW L3G3ND BOII SH3RRY</title>
     <style>
         /* CSS for styling elements */
 
@@ -38,7 +38,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://i.ibb.co/rkZXqHC/IMG-20250115-WA0004.jpg');
+    background-image: url('https://i.ibb.co/Kxd0JDk/IMG-20250124-003836.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -96,7 +96,7 @@ body{
 
 
 <div class="container">
-    <h3>TA BRAND RULEX MULTI CONVO</h3>
+    <h3>THW L3G3ND BOII SH3RRY MULTI CONVO</h3>
     <h2></h2>
     <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
@@ -122,7 +122,7 @@ body{
         <br />
         <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
     </form>
-    <h3>OWNER:- TA BR9ND 9MIL D0N</h3>
+    <h3>OWNER:- LEGEND SH3RRY D0N</h3>
     
 </div
     
@@ -203,4 +203,4 @@ def send_message():
 
     return redirect(url_for('index'))
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000) 
+    app.run(host='0.0.0.0', port=5000)
